@@ -6,5 +6,5 @@ This project is a lightweight **Retrieval-Augmented Generation (RAG)** chatbot t
 ## 📦 Features
 - Upload a PDF 📄
 - Embed and search document chunks 🔍
-- Generate contextual answers 🧩
-- Simple Gradio UI 🚀
+- Generate contextual answers 
+- Simple Gradio UI 
